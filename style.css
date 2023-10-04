@@ -207,4 +207,79 @@
         top: 3px;
         left: 3px;           
         }
+.eed{
+            position: relative;
+            top: -104px;
+                        left: 1190px;
+                        height: 40px;
+                        width: 120px;
+                        cursor: pointer;
+                        font-size: large;
+                        background-color: white;
+                        border-radius: 5px;
+                        border: transparent;
+                        box-shadow:inset;
+                        box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+                        text-align: center;
+                     
+
+        }
+        .qw{
+            margin-left: 5px;
+        }
+        /* .ends{
+            margin-top: -45px;
+            height: 500px; 
+            width: 100%;
+            background-color: black;
+            color: white;
+        
+            /* display: flex; */
+            
+
+            .grid-container {
+                
+                height: auto;
+                width: fit-content;
+                display: grid;
+                grid-template-columns: repeat(5, 1fr);
+                gap: 15px;
+                margin-left: 215px;
+                margin-top: -50px;
+               }
+               
+               .grid-item {
+                background-color:white;
+                padding: 5px;
+                text-align: left;
+                color: black;
+                font-weight: 550;
+     
+                
+               }  
+               .grid-item a {
+                align-items: baseline;
+                color: grey;
+                text-decoration: none;
+                
+
+               } 
+               .grid-item img{
+                height: 28px;
+                margin-top: 30px;
+                
+               }   
+               .les{
+                width: fit-content;
+                font-size: 15px;
+                margin-left: 210px;
+               }  
+            hr{
+                width: 1250px;
+                margin-left: 190px;
+                margin-top: 50px;
+                margin-bottom: 30px;
+            }
+
+        
         
