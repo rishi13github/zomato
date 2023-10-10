@@ -281,6 +281,121 @@
                 margin-top: 50px;
                 margin-bottom: 30px;
             }
+ @media(
+                max-width :500px){
+                    .very{
+                        position: relative;
+                    }
+                    /* .pic{
+                        display: none;
+                        
+                    } */
+
+.textt{
+    width: auto;
+    height: auto;
+    font-size: small;
+    position: absolute;
+    top: 350px;
+    left: 30px;
+}
+.text{
+    width: 100%;
+font-size: large;    
+}
+.nest{
+    width: auto;
+    position: absolute;
+    height: 50px;
+    top: 150px;
+    left: 150px;
+    
+}
+.tex2{
+    width: 50%;
+    display: contents;
+    font-size: small;
+    display: none;
+}
+.buttons{
+    width: 100%;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content:space-evenly;
+    margin-left: 0px;
+
+}
+.logo{
+    height: 30px;
+    overflow: hidden;
+    font-size: small;
+    width: 150px;}
+
+    .logo img   {
+        height: 18px;
+        width: 25px;
+        margin-left: 0px;border-radius: 5%;
+        position: absolute;
+        overflow: hidden;
+        left: 5px;
+    margin-right: 5px;}
+    .we{
+        margin-left: -90px;
+     }
+     .zom{
+        width: auto;
+        height: auto;
+        font-size: xx-large;
+        font-weight: 800;
+        margin-bottom: 50px;
+        margin-top: 100px;
+        color: black;
+        margin-top: 50px;
+    margin-left: -200px;}
+
+
+.les{
+    font-size: smaller;}
+
+    .eng{ display: none;
+
+    }
+    .eed{
+        display: none;
+    }
+    .remo{
+        display: none;
+    }
+    .ends{
+        margin-left: -180px;
+        
+    }
+    
+    .grid-container {
+                
+        height: auto;
+        width: fit-content;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1px;
+        /* margin-left: 215px;
+        margin-top: -50px; */
+       }
+       hr{
+        width: 50%;
+        display: none;
+       }
+       .add-data{
+        width: auto;
+        
+        position: absolute;
+        top: 3px;
+        left: 200px;
+        font-size: small;
+        
+    }
+       }
 
         
         
